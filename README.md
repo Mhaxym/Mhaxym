@@ -13,7 +13,7 @@ I also gained experience in `SwiftUI` by developing my own app ([IfCollector](ht
 
 
 ### 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HaxhDesigns)
+[![Twitter](https://img.shields.io/badge/Follow-%23000000.svg?logo=x&logoColor=white)](https://x.com/HaxhDesigns)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgi-iliev-616595152/) 
 
 ## 💻 Tech Stack:
