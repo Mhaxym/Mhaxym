@@ -7,7 +7,8 @@ My specialization lies in:
 - Building APIs and services with a high concurrent hit rate using various languages such as .NET Core and Go.
 - Building microservices-based systems that run in Docker and interconnect with each other via RPC, JSON, etc.
 - Building backend environments with .NET Core and Python.
-- Using GraphQL and REACT for the implementation of access and client layers.
+- Using GraphQL, REACT and Angular for the implementation of access and client layers.
+- Machine Learning using Python, NET Core, Pandas and MLFlow. Launched with Kedro.
 
 Some of the projects I'm involved in are:
 - SSO Service.
