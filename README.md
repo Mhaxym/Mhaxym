@@ -4,10 +4,15 @@ Senior Software Engineer. Think Twice Code Once.<br>
 As a Senior Software Engineer I possess expertise in end-to-end application development using a diverse set of tools and technologies.
 
 My specialization lies in:
-- Building backend environments with Python, specifically with Django and PostgreSQL.
-- Building microservices-based systems that run in Docker and interconnect with each other via RPC.
+- Building APIs and services with a high concurrent hit rate using various languages such as .NET Core and Go.
+- Building microservices-based systems that run in Docker and interconnect with each other via RPC, JSON, etc.
+- Building backend environments with .NET Core and Python.
 - Using GraphQL and REACT for the implementation of access and client layers.
-- Building APIs with a high concurrent hit rate using various languages such as .NET Core, Go and Python.
+
+Some of the projects I'm involved in are:
+- SSO Service.
+- Search Service based on Machine Learning.
+- Scripting services used to manage GDPR data.
 
 I also gained experience in `SwiftUI` by developing my own app ([IfCollector](https://ifcollector.com/)) to manage collections of movies, games, etc.
 
